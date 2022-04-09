@@ -16,4 +16,4 @@ My name is Alexandra and I am a student currently pursuing an Honours degree in 
 
 ### I have experience in :
 
-https://img.shields.io/badge/-Java-007396?logo=java
+(https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)

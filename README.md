@@ -1,17 +1,16 @@
 ### Hi there 👋
 
-:round_pushpin: <h2>About Me</h2>
-
 My name is Alexandra and I am a student currently pursuing an Honours degree in Software Development For Business.
 
 - 🔭 I’m currently working on Integrated Project for my university group assignment
 
 - 🌱 I’m currently learning JavaScript, React and NeDB
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💬 Ask me about : My Honours Project
+
+- 📫 alexandragoffova@gmail.com
+
+- ⚡ Fun fact: I've lived in 5 different countries!
 
 
 ### I have experience in :

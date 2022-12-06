@@ -2,7 +2,7 @@
 
 My name is Alexandra and I am a student currently pursuing an Honours degree in Software Development For Business.
 
-- 🔭 I’m currently working on Integrated Project for my university group assignment
+- 🔭 I’m currently working on my Honours Project for my final year.
 
 - 🌱 I’m currently learning JavaScript, React and NeDB
 

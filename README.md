@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is Alexandra and I am a student currently pursuing an Honours degree in Software Development For Business.
+My name is Alexandra and I am a Junior Software Engineer looking for my next career opportunity.
 
-- 🔭 I’m currently working on my Honours Project for my final year.
+- 🔭 I just finished working on my Honours Project and currently working on my portfolio.
 
-- 🌱 I’m currently learning JavaScript, React and NeDB
+- 🌱 I’m currently learning more about React (which I am using in my portfolio).
 
 - 💬 Ask me about : My Honours Project
 

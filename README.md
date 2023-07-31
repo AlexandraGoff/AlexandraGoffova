@@ -2,7 +2,7 @@
 
 My name is Alexandra and I am a Junior Software Engineer looking for my next career opportunity.
 
-- 🔭 I just finished working on my Honours Project and currently working on my portfolio.
+- 🔭 I finished working on my Honours Project and currently working on my portfolio.
 
 - 🌱 I’m currently learning more about React (which I am using in my portfolio website).
 
